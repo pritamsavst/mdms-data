@@ -23753,6 +23753,21 @@
 		"leftIcon": "action:assignment",
 		"rightIcon": ""
 	},
+	  {
+		"id": 7019,
+		"name": "EawasStat",
+		"url": "url",
+		"displayName": "EawasStat",
+		"orderNumber": 5,
+		"parentModule": "rainmaker-integration",
+		"enabled": true,
+		"serviceCode": "INTEGRATION",
+		"code": "null",
+		"path": "INTEGRATION.EawasStat",
+		"navigationURL": "egov-integration/e-awas-stat",
+		"leftIcon": "action:assignment",
+		"rightIcon": ""
+	},
 	{
       "id": 9001,
       "name": "rainmaker-common-report",
