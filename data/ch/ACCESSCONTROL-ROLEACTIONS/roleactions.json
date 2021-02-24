@@ -33775,6 +33775,18 @@
 			"tenantId": "ch"
 		},
 		{
+			"rolecode": "WS_BILL_UPLOAD",
+			"actionid": 4068,
+			"actioncode": "",
+			"tenantId": "ch"
+		},
+		{
+			"rolecode": "WS_BILL_UPLOAD",
+			"actionid": 4067,
+			"actioncode": "",
+			"tenantId": "ch"
+		},
+		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 4068,
 			"actioncode": "",
